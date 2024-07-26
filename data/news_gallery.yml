@@ -1,0 +1,60 @@
+title : "News & Publications"
+content: |
+  Recent articles and reports showcasing applications of the Open Urban Planning Toolbox.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - thumbnail : "images/news_gallery/mvd_islas_calor.png"
+    name : "Identifying Urban Heat Islands in Montevideo with URSA"
+    content : "Montevideo City's Territorial Observatory uses URSA to monitor Urban Heat Islands, supporting data-driven decisions for the implementation of territorial policies (full text in Spanish)."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/es/identificando-islas-de-calor-en-montevideo-para-la-planificacion-de-una-ciudad-sostenible/"
+    button_message: "Read more"
+
+  # feature item loop
+  - thumbnail : "images/news_gallery/podcast_barrios_big_data_ai.png"
+    name : "Identifying Urban Heat Islands in Montevideo with URSA"
+    content : "MAIIA's technology is explained in the “Neighborhoods, Big Data and AI” episode of Urban Intelligence, the official podcast from the IDB Cities Lab."
+    style : "style2 major"
+    link: "https://open.spotify.com/episode/34jiJSdCY9YG5yUWmbbU1y"
+    button_message: "Listen"
+  
+  # feature item loop
+  - thumbnail : "images/news_gallery/discover_ursa.png"
+    name : "How to identify heat islands in cities?"
+    content : "Explora el visor de islas de calor urbanas de URSA que actualmente está disponible para ciudades en América Latina y el Caribe con más de 100,000 habitantes."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/en/how-to-identify-heat-islands-in-cities-discover-ursa-the-new-intelligent-software-from-the-idb/"
+    button_message: "Read more"
+  
+  # feature item loop
+  - thumbnail : "images/news_gallery/ursa_first_blogpost.png"
+    name : "URSA: A Tool to Guide Urban Planning with Satellite Data"
+    content : "The IDB Cities Laboratory and the Center for the Future of Cities at Tecnológico de Monterrey collaborated to create URSA, a digital system that simplifies the access and analysis of satellite data."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/en/ursa-a-tool-to-guide-urban-planning-with-satellite-data/"
+    button_message: "Read more"
+
+  # feature item loop
+  - thumbnail : "images/news_gallery/AI_reduce_informality.png"
+    name : "Can Artificial Intelligence help reduce urban informality?"
+    content : "MAIIA has been used in Colombia to analyze satellite images and provide information on where and how informal settlements are growing."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/en/can-artificial-intelligence-help-reducing-urban-informality/"
+    button_message: "Read more"
+  
+  # feature item loop
+  - thumbnail : "images/news_gallery/la_nacion_URSA.png"
+    name : "Discover the Buenos Aires street corners where temperatures are scorching "
+    content : "Argentine newspaper La Nación used URSA to present infographics and maps of the heat island effect in the City of Buenos Aires (in Spanish)."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/es/identificando-islas-de-calor-en-montevideo-para-la-planificacion-de-una-ciudad-sostenible/"
+    button_message: "Read more"
+
+  # feature item loop
+  - thumbnail : "images/news_gallery/presenting_urbanpy.png"
+    name : "UrbanPy, a comprehensive tool for urban accessibility analysis"
+    content : "Presenting UrbanPy, the tool that allows you to define geographic boundaries of a city, estimate population, locate points of interest, and calculate travel times."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/es/identificando-islas-de-calor-en-montevideo-para-la-planificacion-de-una-ciudad-sostenible/"
+    button_message: "Read more"

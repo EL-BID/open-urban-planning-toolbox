@@ -1,6 +1,6 @@
 <section>
-    <span class="icon {{ .style }}"></span>
+    <img src = {{ .thumbnail }} style = "max-width:100%;">
     <h3>{{ .name }}</h3>
     <p>{{ .content }}</p>
-    <p><a href = {{ .link }}  target="_blank">Read more</a></p>
+    <p><a href = {{ .link }}  target="_blank">{{ .button_message }}</a></p>
 </section>

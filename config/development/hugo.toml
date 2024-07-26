@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  description = "A set of open-source tools to support each step of the urban development planning process"
   logo = "images/banner.jpg"
   favicon = true
 

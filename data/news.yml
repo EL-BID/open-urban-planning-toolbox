@@ -1,0 +1,66 @@
+title : "News & Publications"
+content: |
+  Recent articles and reports showcasing applications of the Open Urban Planning Toolbox.
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Identifying Urban Heat Islands in Montevideo with URSA"
+    content : "Montevideo City's Territorial Observatory uses URSA to monitor Urban Heat Islands, supporting data-driven decisions for the implementation of territorial policies."
+    style : "style2 major"
+    link: "https://blogs.iadb.org/ciudades-sostenibles/es/identificando-islas-de-calor-en-montevideo-para-la-planificacion-de-una-ciudad-sostenible/"
+
+  # feature item loop
+  - name : "Two"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-save"
+    
+  # feature item loop
+  - name : "Three"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-chart-bar"
+    
+  # feature item loop
+  - name : "Four"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-wifi"
+    
+  # feature item loop
+  - name : "Five"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-cog"
+    
+  # feature item loop
+  - name : "Six"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-paper-plane"
+    
+  # feature item loop
+  - name : "Seven"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-desktop"
+    
+  # feature item loop
+  - name : "Eight"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-sync-alt"
+    
+  # feature item loop
+  - name : "Nine"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-hashtag"
+    
+  # feature item loop
+  - name : "Ten"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-bolt"
+    
+  # feature item loop
+  - name : "Eleven"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-envelope"
+    
+  # feature item loop
+  - name : "Twelve"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "solid style2 major fa-leaf"
+    

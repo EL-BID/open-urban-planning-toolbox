@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Open Urban Planning Toolbox"
+subtitle: |
+  Developed by the <a href="https://www.iadb.org/en/who-we-are/topics/urban-development-and-housing">IDB’s Housing and Urban Development Division</a>, open to all.
+content : |
+  A set of open-source tools to support each step of the urban development planning process, from early design through implementation and evaluation of projects.
+#button:
+#  label : "Intro"
+#  link : "#first"
+image : "images/banner.jpg"
+

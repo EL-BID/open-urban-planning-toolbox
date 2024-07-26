@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style4 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "ursa"
+title : "URSA"
+subtitle: "Urban Reporting based on Satellite Analysis"
+content: |
+  URSA (Urban Reporting based on Satellite Analysis) is a support system for urban planning. It allows easy access to the enormous amount of information captured by satellite sensors, taking charge of collecting, processing and presenting key information about the evolution of cities in Latin America and the Caribbean.
+button: 
+  label: "Learn More & Get the Code"
+  link: "https://github.com/EL-BID/URSA"
+image: "images/URSA-English.jpg"

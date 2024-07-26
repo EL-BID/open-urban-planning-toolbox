@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	{{ partial "spotlight" site.Data.ursa }}
+	{{ partial "spotlight" site.Data.urbanpy }}
+	{{ partial "spotlight" site.Data.maiia }}
+	{{ partial "items" site.Data.news }}
+	{{ partial "footer" . }}
+
+{{ end }}

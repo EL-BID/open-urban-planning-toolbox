@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "urbanpy"
+title : "UrbanPy"
+content: |
+ UrbanPy makes it easy to obtain digital maps with the geographical boundaries of any city, estimate its population with high granularity, locate points of interest such as schools or hospitals, and even calculate travel times through the local street system. All of this is done using global open databases. These functions were developed to facilitate the easy acquisition of urban accessibility indicators, determining the distance of the population to key service points (pharmacies, hospitals, banks, schools, etc.), and generating detailed maps that indicate the degree of isolation of each sector and the amount of affected population.
+button: 
+  label: "Learn More & Get the Code"
+  link: "https://github.com/EL-BID/urbanpy"
+image: "images/urbanpy-example.png"

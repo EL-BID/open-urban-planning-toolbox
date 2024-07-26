@@ -13,7 +13,7 @@ items:
 
   # feature item loop
   - thumbnail : "images/news_gallery/podcast_barrios_big_data_ai.png"
-    name : "Identifying Urban Heat Islands in Montevideo with URSA"
+    name : "Neighborhoods, Big Data & AI: technology for urban integration"
     content : "MAIIA's technology is explained in the “Neighborhoods, Big Data and AI” episode of Urban Intelligence, the official podcast from the IDB Cities Lab."
     style : "style2 major"
     link: "https://open.spotify.com/episode/34jiJSdCY9YG5yUWmbbU1y"

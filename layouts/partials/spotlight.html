@@ -4,7 +4,7 @@
         {{ with .title }}<h2>{{ . }}</h2>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked">
-            <li><a href="{{ .link }}" class="button">{{ .label }}</a></li>
+            <li><a href="{{ .link }}" target="_blank" class="button">{{ .label }}</a></li>
         </ul>{{ end }}
     </div>
     {{ with .image }}<div class="image">

@@ -7,17 +7,17 @@
 
 
 # [MAIIA](https://github.com/EL-BID/MAIIA)
-MAIIA is an AI algorithm that allows for the automated mapping of informal urban settlement locations through the analysis of satellite images. It was developed with an emphasis on ease of implementation, to lower the barriers to access artificial intelligence tools and enable government agencies, researchers, and other interested parties to apply it to their own use cases.
+[MAIIA](https://github.com/EL-BID/MAIIA) is an AI algorithm that allows for the automated mapping of informal urban settlement locations through the analysis of satellite images. It was developed with an emphasis on ease of implementation, to lower the barriers to access artificial intelligence tools and enable government agencies, researchers, and other interested parties to apply it to their own use cases.
 
 ![Screenshot MAIIA](public/images/MAIIA-illustration.png)
 
 # [URSA](https://github.com/EL-BID/URSA)
-  URSA (**U**rban **R**eporting based on **S**atellite **A**nalysis) is a support system for urban planning. It allows easy access to the enormous amount of information captured by satellite sensors, taking charge of collecting, processing and presenting key information about the evolution of cities in Latin America and the Caribbean.
+[URSA](https://github.com/EL-BID/URSA) (**U**rban **R**eporting based on **S**atellite **A**nalysis) is a support system for urban planning. It allows easy access to the enormous amount of information captured by satellite sensors, taking charge of collecting, processing and presenting key information about the evolution of cities in Latin America and the Caribbean.
 
   ![Screenshot URSA](public/images/URSA-English.jpg)
 
 # [UrbanPy](https://github.com/EL-BID/urbanpy)
- UrbanPy makes it easy to obtain digital maps with the geographical boundaries of any city, estimate its population with high granularity, locate points of interest such as schools or hospitals, and even calculate travel times through the local street system. All of this is done using global open databases. These functions were developed to facilitate the easy acquisition of urban accessibility indicators, determining the distance of the population to key service points (pharmacies, hospitals, banks, schools, etc.), and generating detailed maps that indicate the degree of isolation of each sector and the amount of affected population.
+[UrbanPy](https://github.com/EL-BID/urbanpy) makes it easy to obtain digital maps with the geographical boundaries of any city, estimate its population with high granularity, locate points of interest such as schools or hospitals, and even calculate travel times through the local street system. All of this is done using global open databases. These functions were developed to facilitate the easy acquisition of urban accessibility indicators, determining the distance of the population to key service points (pharmacies, hospitals, banks, schools, etc.), and generating detailed maps that indicate the degree of isolation of each sector and the amount of affected population.
  
 ![Screenshot UrbanPy](public/images/urbanpy-example.png)
 

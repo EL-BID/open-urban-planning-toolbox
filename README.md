@@ -1,7 +1,7 @@
 # Open Urban Planning Toolbox
 ## Developed by the <a href="https://www.iadb.org/en/who-we-are/topics/urban-development-and-housing">IDB’s Housing and Urban Development Division</a>, open to all.
 
-A set of open-source tools to support each step of the urban development planning process, from early design through implementation and evaluation of projects.**
+**A set of open-source tools to support each step of the urban development planning process, from early design through implementation and evaluation of projects.**
 
 ![Open Urban Planning Toolbox in Use](public/images/banner.jpg)
 
